@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index",
     "dev": "nodemon index",
-    "seed": "node utils/seed"
+    "seed": "node util/seed"
   },
   "author": "",
   "license": "ISC",
