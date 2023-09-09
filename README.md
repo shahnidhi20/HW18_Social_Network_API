@@ -4,7 +4,7 @@
   
 🔍 This application demonstrates the CRUD opetaions with Mongo DB
 
-1. [GitHub Repo Text Editor URL](https://github.com/shahnidhi20/HW18_Social_Network_API)
+1. [GitHub Repo Social Network API URL](https://github.com/shahnidhi20/HW18_Social_Network_API)
 
 ## Output Video
 
