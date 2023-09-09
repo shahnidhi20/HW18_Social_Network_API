@@ -41,7 +41,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ## Table of Contents
 
 - [Description](#description)
-- [Output Screenshot](#output-screenshot)
+- [Output Video](#output-Demo-Video)
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Table of Contents](#table-of-contents)
